@@ -1,0 +1,14 @@
+div div div div input {
+  width: 100%;
+  border: 1px solid #d2f4d6;
+}
+
+.faq-bg {
+  background: #f7fcf8;
+}
+
+@media (min-width: 640px) {
+  div div div div .faq-header-1 {
+    font: 56px;
+  }
+}

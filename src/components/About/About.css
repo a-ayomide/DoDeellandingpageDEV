@@ -1,0 +1,24 @@
+div #AboutText {
+  width: 35%;
+}
+
+div #AboutText p {
+  max-width: 368px;
+}
+
+div #ImgCarousel {
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 768px) {
+  div #AboutText {
+    width: 100%;
+  }
+}
+
+@media (min-width: 640px) {
+  div #AboutText h1 {
+    font-size: 56px;
+  }
+}

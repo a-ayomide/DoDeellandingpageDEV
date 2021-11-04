@@ -1,0 +1,15 @@
+div div .image-wrapper-1 {
+  background-image: url(../../assets/StateImgLagos.png) yellow;
+  z-index: 1;
+}
+
+div div .image-wrapper-2 {
+  background-image: url(../../assets/StateImgOsun.png) green;
+  z-index: 1;
+}
+
+div div .image-wrapper-3 {
+  background-image: url(../../assets/StateImgKano.jpg) blue;
+  background-color: aqua;
+  z-index: 1;
+}

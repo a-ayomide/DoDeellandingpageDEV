@@ -1,0 +1,11 @@
+@media (min-width: 640px) {
+  div div div div div .about-header-1 {
+    font-size: 56px;
+  }
+}
+
+@media (min-width: 640px) {
+  div div div div div .about-header-2 {
+    font-size: 56px;
+  }
+}

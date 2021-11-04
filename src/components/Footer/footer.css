@@ -1,0 +1,9 @@
+.footer {
+  background-color: rgba(117, 190, 126, 1);
+}
+
+@media (max-width: 640px) {
+  footer div .desktop-social {
+    display: none;
+  }
+}

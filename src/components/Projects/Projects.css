@@ -1,0 +1,79 @@
+div div #purple-card {
+  background-color: rgba(94, 133, 242, 0.1);
+  border-radius: 8px;
+}
+
+div div #green-card {
+  background-color: rgba(91, 232, 90, 0.1);
+  border-radius: 8px;
+}
+
+div div #pink-card {
+  background-color: rgba(219, 96, 144, 0.1);
+  border-radius: 8px;
+}
+
+div div #yellow-card {
+  background-color: rgba(242, 197, 94, 0.1);
+  border-radius: 8px;
+}
+
+div div #purple-card #card-header {
+  color: #121212;
+}
+
+div div #green-card #card-header {
+  color: #121212;
+}
+
+div div #pink-card #card-header {
+  color: #121212;
+}
+
+div div #yellow-card #card-header {
+  color: #121212;
+}
+
+div div #purple-card #card-text {
+  color: #667d8e;
+}
+
+div div #green-card #card-text {
+  color: #667d8e;
+}
+
+div div #pink-card #card-text {
+  color: #667d8e;
+}
+
+div div #yellow-card #card-text {
+  color: #667d8e;
+}
+
+#left-col {
+  width: 50%;
+}
+
+#left-col div .project-header-text {
+  color: #121212;
+}
+
+div #right-col {
+  width: 50%;
+}
+
+@media (min-width: 300px) {
+  div #left-col {
+    width: auto;
+  }
+
+  div #right-col {
+    width: auto;
+  }
+}
+
+@media (min-width: 640px) {
+  div #left-col div h1 {
+    font-size: 56px;
+  }
+}

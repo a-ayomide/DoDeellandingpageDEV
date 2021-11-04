@@ -1,0 +1,7 @@
+@media (min-width: 640px) {
+  div div div .project-text {
+        line-height: 40px;
+      font-size: 16px;
+    }
+
+}

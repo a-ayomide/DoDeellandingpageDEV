@@ -1,0 +1,45 @@
+div div div .partners-text {
+  max-width: 55rem;
+  font-size: 16px;
+  color: #121212;
+}
+
+@media (min-width: 640px) {
+  div div div .partners-text {
+    font-size: 20px;
+  }
+}
+
+div div div .sponsors-text {
+  font-size: 16px;
+}
+
+@media (min-width: 640px) {
+  div div div .sponsors-text {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 640px) {
+  div div div .partners-header {
+    font-size: 56px;
+  }
+}
+
+@media (min-width: 640px) {
+  div div div .partners-header-2 {
+    font-size: 56px;
+    color: #121212;
+  }
+}
+
+@media (min-width: 640px) {
+  div div div .partners-subheader {
+    font-size: 46px;
+    color: #29a439;
+  }
+}
+
+div div div div .partners-link {
+  color: #29a439;
+}

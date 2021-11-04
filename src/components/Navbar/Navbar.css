@@ -1,0 +1,25 @@
+div div div #button-outline {
+  border-radius: 8px;
+  color: #29a439;
+  border: 1px solid #29a439;
+}
+
+div div div #button-outline .button-text {
+  font-size: 20px;
+}
+
+div div div #button-outline:hover {
+  color: #fff;
+  background-color: #29a439;
+}
+
+div div div nav #nav-text {
+  color: #667d8e;
+  font-size: 16px;
+}
+
+@media only screen and (max-width: 768px) {
+  div div div #button-outline p {
+    font-size: 10px;
+  }
+}

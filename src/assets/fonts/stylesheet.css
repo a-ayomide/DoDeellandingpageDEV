@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Bold.eot');
+    src: local('Axiforma Bold'), local('Axiforma-Bold'),
+        url('Axiforma-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Bold.woff') format('woff'),
+        url('Axiforma-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Heavy.eot');
+    src: local('Axiforma Heavy'), local('Axiforma-Heavy'),
+        url('Axiforma-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Heavy.woff') format('woff'),
+        url('Axiforma-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Medium.eot');
+    src: local('Axiforma Medium'), local('Axiforma-Medium'),
+        url('Axiforma-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Medium.woff') format('woff'),
+        url('Axiforma-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-SemiBold.eot');
+    src: local('Axiforma SemiBold'), local('Axiforma-SemiBold'),
+        url('Axiforma-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-SemiBold.woff') format('woff'),
+        url('Axiforma-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Black.eot');
+    src: local('Axiforma Black'), local('Axiforma-Black'),
+        url('Axiforma-Black.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Black.woff') format('woff'),
+        url('Axiforma-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Thin.eot');
+    src: local('Axiforma Thin'), local('Axiforma-Thin'),
+        url('Axiforma-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Thin.woff') format('woff'),
+        url('Axiforma-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Book.eot');
+    src: local('Axiforma Book'), local('Axiforma-Book'),
+        url('Axiforma-Book.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Book.woff') format('woff'),
+        url('Axiforma-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-ExtraBold.eot');
+    src: local('Axiforma ExtraBold'), local('Axiforma-ExtraBold'),
+        url('Axiforma-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-ExtraBold.woff') format('woff'),
+        url('Axiforma-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Regular.eot');
+    src: local('Axiforma Regular'), local('Axiforma-Regular'),
+        url('Axiforma-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Regular.woff') format('woff'),
+        url('Axiforma-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axiforma-Light.eot');
+    src: local('Axiforma Light'), local('Axiforma-Light'),
+        url('Axiforma-Light.eot?#iefix') format('embedded-opentype'),
+        url('Axiforma-Light.woff') format('woff'),
+        url('Axiforma-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+
