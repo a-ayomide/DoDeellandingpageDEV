@@ -30,7 +30,7 @@ export default function Form({api}) {
             if (form.name.length < 3) return toast.update(id,{ render:"The name must be at least 3 characters!", type:"error",isLoading:false, position: "top-center", autoClose: true, toastId: customId});                                
             const response = await axios.post(`${api}/apply`, form)
                 if (response.data.success === true) {
-                    toast.update(id, { render:"Thank you for showing interest, kindly contact the Schedule Officer", type:"success", isLoading:false, position:"top-center", autoClose:true, toastId: customId });
+                    toast.update(id, { render:"Thank you for showing interest, kindly check your email for more info.", type:"success", isLoading:false, position:"top-center", autoClose:true, toastId: customId });
                     setTimeout(() => window.location.reload(false), 3000);
                 }
                 
