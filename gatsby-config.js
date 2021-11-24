@@ -20,20 +20,20 @@ module.exports = {
     'gatsby-plugin-postcss',
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-less`,
-    `gatsby-plugin-scroll-indicator`,
-    {
-      resolve: `gatsby-plugin-scroll-indicator`,
-      options: {
-        // Configure color of the scroll indicator
-        color: "#29A439",
-        // Height of the scroll indicator
-        height: "3px",
-        // Configure paths where the scroll indicator will appear
-        paths: ["/", "/about", "/faq", "/contacts", "/team", "/privacy-policy", "/about"],
-        // Configure the z-index of the indicator element
-        zIndex: `9999`,
-      },
-    },
+    // `gatsby-plugin-scroll-indicator`,
+    // {
+    //   resolve: `gatsby-plugin-scroll-indicator`,
+    //   options: {
+    //     Configure color of the scroll indicator
+    //     color: "#29A439",
+    //     Height of the scroll indicator
+    //     height: "3px",
+    //     Configure paths where the scroll indicator will appear
+    //     paths: ["/", "/about", "/faq", "/contacts", "/team", "/privacy-policy", "/about"],
+    //     Configure the z-index of the indicator element
+    //     zIndex: `9999`,
+    //   },
+    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
