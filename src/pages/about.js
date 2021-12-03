@@ -9,7 +9,7 @@ import './about.css'
 import Fade from 'react-reveal/Fade';
 
 export default function about() {
-    const REACT_APP_BASE_URL= "https://dodeel.douglasokolaa.codes"
+    const REACT_APP_BASE_URL= "https://api.dodeelcds.com.ng"
     return (
         <Layout>
             <div className="max-w-6xl container mx-auto px-4">

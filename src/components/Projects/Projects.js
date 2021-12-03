@@ -5,7 +5,7 @@ import Zoom from 'react-reveal/Zoom';
 
 export default function Projects() {
     return (
-        <div className='flex flex-col sm:flex-row sm:space-x-20 mt-5 sm:mt-32 sm:my-10'>
+        <div className='flex flex-col sm:flex-row sm:space-x-20 mt-5 sm:mt-28 sm:my-10'>
             <div id='left-col' className=' mt-10'>
                 <div>
                     <Fade up>
