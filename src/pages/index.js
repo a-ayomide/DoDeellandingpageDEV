@@ -11,7 +11,7 @@ import Helmet from "react-helmet"
 import { graphql } from "gatsby"
 
 export default function Home({ data }) {
-  const REACT_APP_BASE_URL = "https://api.dodeelcds.com.ng"
+  const REACT_APP_BASE_URL = "https://dodeel.douglasokolaa.codes"
   return (
     <Layout>
       <Helmet>

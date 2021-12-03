@@ -10,7 +10,7 @@ import Fade from 'react-reveal/Fade';
 
 
 export default function faq() {
-    const REACT_APP_BASE_URL= "https://api.dodeelcds.com.ng"
+    const REACT_APP_BASE_URL = "https://dodeel.douglasokolaa.codes"
     return (
         <Layout>
             <div>
